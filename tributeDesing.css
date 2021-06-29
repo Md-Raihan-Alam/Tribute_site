@@ -74,3 +74,11 @@ a{
 a:visited{
 	color:#74638f;
 }
+@media all and (max-width:475px){
+	#tribute-info ul b{
+		padding-right:10px;
+	}
+	#tribute-info h3 b{
+		font-size: medium;
+	}
+}
