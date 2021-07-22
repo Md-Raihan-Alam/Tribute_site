@@ -15,3 +15,5 @@ understanding.
 -The width set as percentage so that it can fit to as needed from devices
 
 -You can find the complete based work on html and css
+
+-give a review or feedback
